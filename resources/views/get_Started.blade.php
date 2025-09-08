@@ -10,7 +10,7 @@
    
 <main>
         
-
+text-base md:text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto
 <section aria-label="Notifications alt+T" tabindex="-1" aria-live="polite" aria-relevant="additions text" aria-atomic="false"></section>
 <div class="min-h-screen bg-gradient-subtle flex items-center justify-center p-4">
   <div class="w-full max-w-2xl">
